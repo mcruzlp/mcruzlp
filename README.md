@@ -24,7 +24,6 @@ My learning projects
 My learning exercises
 ```
 -->
-📫 How to reach me: mcruzlp@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcruzlp&show_icons=true&locale=en&layout=compact" alt="mcruzlp" /></p>
 
